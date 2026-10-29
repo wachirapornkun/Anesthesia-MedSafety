@@ -1,0 +1,6 @@
+{
+  "name": "Anesthesia MedSafe",
+  "description": "ระบบจัดการคลังยา ทะเบียนรายชื่อผู้ป่วยที่ใช้ยาประจำวัน และบันทึกการบริหารยาตามมาตรฐานความปลอดภัยทางวิสัญญีวิทยา",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
